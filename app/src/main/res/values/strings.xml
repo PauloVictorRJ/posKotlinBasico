@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">ProjetoFinalKotlin</string>
+
+    <!-- Recovery Password -->
+    <string name="main_subtitle_txt">Desenvolvimento de Apps com Kotlin [24E1_2]</string>
+
+    <!-- Login -->
+    <string name="login_title_txt">Olá novamente</string>
+    <string name="login_subtitle_txt">Você fez falta!</string>
+    <string name="login_email_txt">E-mail:</string>
+    <string name="login_password_txt">Senha:</string>
+    <string name="login_recovery_password_txt">Recuperar senha</string>
+    <string name="login_login_btn_txt">Login</string>
+    <string name="login_login_google_btn_txt">Logar com o google</string>
+    <string name="login_new_account_btn_txt">Ainda não tem uma conta? <b>Crie uma gratuitamente!</b></string>
+    <string name="login_account_toast_success">Usuário logado com sucesso!</string>
+    <string name="login_account_toast_error">Erro ao logar:</string>
+    <string name="login_toast_empty_fields_txt">Campos vazios não são permitidos!</string>
+    <string name="login_create_account_btn_txt">Criar conta</string>
+
+    <!-- Create Account -->
+    <string name="ca_title_txt">Crie sua conta</string>
+    <string name="ca_name_txt">Nome:</string>
+    <string name="ca_email_txt">E-mail:</string>
+    <string name="ca_password_txt">Senha:</string>
+    <string name="ca_password_confirmation_txt">Confirme sua senha:</string>
+    <string name="ca_create_account_btn_txt">Criar conta</string>
+    <string name="ca_create_account_toast_success">Usuário criado com sucesso!</string>
+    <string name="ca_create_account_toast_error">Erro ao criar usuário:</string>
+    <string name="ca_create_account_empty_fields_txt">Campos vazios não são permitidos!</string>
+    <string name="ca_create_account_passwords_do_not_match_txt">As senhas não são iguais</string>
+
+    <!-- Recovery Password -->
+    <string name="rp_title_txt">Recuperar senha</string>
+    <string name="rp_subtitle_txt">Coloque seu e-mail para receber um código de verificação</string>
+    <string name="rp_receive_code_btn_txt">Receber código</string>
+    <string name="rp_receive_code_sent_toast_txt">Código enviado com sucesso</string>
+    <string name="rp_receive_code_sent_toast_error_txt">Erro de envio do código: </string>
+
+    <!-- Task -->
+    <string name="task_title_txt">Tarefas</string>
+
+    <!-- Edit Task -->
+    <string name="edit_task_title_txt">Editar tarefa</string>
+    <string name="edit_task_title_tv_txt">Título:</string>
+    <string name="edit_task_description_txt">Descrição:</string>
+    <string name="edit_task_save_btn_txt">Salvar</string>
+    <string name="edit_task_toast_error_txt">Campos vazios não são permitidos!</string>
+    <string name="edit_task_toast_success_txt">Salvo com sucesso!</string>
+
+    <!-- RV Item -->
+    <string name="rv_item_title">Title</string>
+    <string name="rv_item_description">Description</string>
+</resources>
